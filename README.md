@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=invoker2002&label=Profile%20views&color=0e75b6&style=flat" alt="invoker2002" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=invoker2002)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Operating Systems**
 
