@@ -1,6 +1,9 @@
 ## Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+I am Shashank Singh , i love problem solving , writing code and doing open source collaborations.
+Thanks for visiting my profile ! Have a great day :)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=INVOKER2002)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **INVOKER2002/INVOKER2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
